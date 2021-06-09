@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>arroz.png</file>
+        <file>logo_institucional_amboni.png</file>
+    </qresource>
+</RCC>
